@@ -14,12 +14,12 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screen.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/glopzel/clippy-landing)
+- Live Site URL: [Github Pages](https://glopzel.github.io/clippy-landing/)
 
 ## My process
 
